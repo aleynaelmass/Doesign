@@ -62,7 +62,7 @@ h1 {  font-family: 'Montserrat, sans-serif';
 }
 
 .nav-link{
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-family: "Montserrat-light";
 }
 
@@ -271,4 +271,8 @@ position:absolute;
 }
 .social-icon{
   margin: 20px 10px;
+}
+.nav-link {
+    font-size: 1.5rem;
+    font-family: "Montserrat-light";
 }
