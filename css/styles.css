@@ -171,7 +171,7 @@ color: #fff;
 
 .big-heading{
   font-family: 'Montserrat-Black';
-   font-size: 4.40rem;
+   font-size: 4.0rem;
     line-height: 1.5;
     font-weight: 1000;
 
@@ -213,7 +213,7 @@ color: #fff;
  z-index: 0;
 }
 .testimonial-text{
-  font-size: 3rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
